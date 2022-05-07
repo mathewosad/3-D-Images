@@ -52,7 +52,7 @@ article button:hover, article button:focus, article button:hover img, article bu
     transform: scale(1.07);
 }
 
-.footer {
+/* .footer {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -60,4 +60,4 @@ article button:hover, article button:focus, article button:hover img, article bu
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     text-align: center;
-  }
+  } */
